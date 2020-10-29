@@ -1,19 +1,19 @@
 # Chart types
 
+## Floating bar chart
+
+https://codepen.io/elizzk/pen/oNvdbgN
+![Floating bar chart](images/floating-bar-chart.png)
+
 ## Grouped bar chart
 
 https://codepen.io/elizzk/pen/YzKMxgV
 ![Grouped bar chart](images/grouped-bar-chart.png)
 
-## Stacked floating bar chart
-
-https://codepen.io/elizzk/pen/oNvdbgN
-![Stacked floating bar chart](images/stacked-floating-bar-chart.png)
-
-## Waterfall bar chart
+## Waterfall chart
 
 https://codepen.io/elizzk/pen/BaBwGLr
-![Waterfall bar chart](images/waterfall-bar-chart.png)
+![Waterfall chart](images/waterfall-chart.png)
 
 
 # Extra features
