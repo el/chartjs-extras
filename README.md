@@ -5,7 +5,6 @@ These are proof-of-concepts for extra chart types and features that are not offi
 ## Charts
 
 ### Floating bar chart
-636×325
 https://codepen.io/elizzk/pen/oNvdbgN
 <img src="images/floating-bar-chart.png" width="636" height="325" />
 
