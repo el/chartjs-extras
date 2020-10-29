@@ -5,19 +5,19 @@ These are proof-of-concepts for extra chart types and features that are not offi
 ## Charts
 
 ### Floating bar chart
-
+636×325
 https://codepen.io/elizzk/pen/oNvdbgN
-![Floating bar chart](images/floating-bar-chart.png)
+<img src="images/floating-bar-chart.png" width="636" height="325" />
 
 ### Grouped bar chart
 
 https://codepen.io/elizzk/pen/YzKMxgV
-![Grouped bar chart](images/grouped-bar-chart.png)
+<img src="images/grouped-bar-chart.png" width="636" height="325" />
 
 ### Waterfall chart
 
 https://codepen.io/elizzk/pen/BaBwGLr
-![Waterfall chart](images/waterfall-chart.png)
+<img src="images/waterfall-chart.png" width="636" height="325" />
 
 
 ## Extra features
@@ -25,9 +25,9 @@ https://codepen.io/elizzk/pen/BaBwGLr
 ### Context menu
 
 https://codepen.io/elizzk/pen/xxZjQvJ
-![Context menu](images/context-menu.png)
+<img src="images/context-menu.png" width="636" height="325" />
 
 ### Minimap
 
 https://codepen.io/elizzk/pen/OJMZMEm
-![Minimap](images/minimap.png)
+<img src="images/minimap.png" width="636" height="325" />
